@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="image-processing-furai",
-    version="0.0.2",
+    version="0.0.3",
     author="Furaime",
     author_email="louan.carvalho@gmail.com",
     description="Image processing package to resize and analize images and histogram",
