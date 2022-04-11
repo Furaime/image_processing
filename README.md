@@ -1,7 +1,7 @@
-# image_processing
+# image Processing
 
 Description. 
-The package package_name is used to:
+The package Image Processing is used to:
 
 	Processing:
 		- Histogram matching
@@ -13,6 +13,12 @@ The package package_name is used to:
 		- Plot image
 		- Plot results
 		- Plot histogram
+
+## Histogram Transfer samples
+
+![city sample1](samples/city1.jpg)
+![city sample2](samples/city2.jpg)
+
 
 ## Installation
 
