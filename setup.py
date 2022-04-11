@@ -7,8 +7,8 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="image processing",
-    version="0.0.1",
+    name="image-processing-furai",
+    version="0.0.2",
     author="Furaime",
     author_email="louan.carvalho@gmail.com",
     description="Image processing package to resize and analize images and histogram",
