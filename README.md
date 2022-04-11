@@ -16,17 +16,17 @@ The package package_name is used to:
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image-processing-furai
 
 ```bash
-pip install image_processing
+pip install image-processing-furai
 ```
 
 ## Usage
 
 ```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
+from image_processing.utils import io, plot
+from image_processing.processing import combinations, transformations
 ```
 
 ## Author
